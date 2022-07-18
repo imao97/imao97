@@ -3,7 +3,7 @@
 
 [Homepage (zh)](https://imao.ml) · [Blog (zh)](https://blog.imao.ml) 
 
-![Skills](https://skillicons.dev/icons?i=raspberrypi,java,scala,py,r,lua,spring,idea,bash,docker,git,md,maven,vim,linux,vscode,github,gitlab,html,js,jenkins,jquery,linkedin,mysql,netlify,nginx,nodejs,ps,php,postgres,pr,redis,regex,rocket,vue,wordpress,eclipse,css)
+![Skills](https://skillicons.dev/icons?i=java,spring,idea,bash,docker,git,md,maven,vim,linux,vscode,github,gitlab,html,js,jenkins,jquery,mysql,netlify,nginx,nodejs,redis,regex,rocket,vue,wordpress,eclipse)
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=imao97&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=imao97&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
